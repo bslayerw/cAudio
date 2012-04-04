@@ -5,8 +5,7 @@
 #pragma once
 
 #include "cOpenALAudioDeviceList.h"
-#include <al.h>
-#include <alc.h>
+#include "cOpenALHeaders.h"
 
 namespace cAudio
 {

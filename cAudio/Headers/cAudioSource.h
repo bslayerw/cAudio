@@ -7,8 +7,7 @@
 #include <list>
 #include <string>
 #include <vector>
-#include <al.h>
-#include <alc.h>
+#include "cOpenALHeaders.h"
 
 #include "cMutex.h"
 #include "cEFXFunctions.h"

@@ -4,8 +4,7 @@
 
 #pragma once
 
-#include <al.h>
-#include <alc.h>
+#include "cOpenALHeaders.h"
 
 #include "IAudioDeviceContext.h"
 #include "cMemoryOverride.h"

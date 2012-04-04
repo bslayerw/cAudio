@@ -4,7 +4,7 @@
 
 #include "cListener.h"
 #include "cEFXFunctions.h"
-#include <al.h>
+#include "cOpenALHeaders.h"
 
 namespace cAudio
 {
